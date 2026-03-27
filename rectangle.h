@@ -1,7 +1,7 @@
 #ifndef FUNC_YANA_H
 #define FUNC_YANA_H
 
-#include<cmath>
+#include<cmath> //matan
 #include<iostream>
 
 int perimetr(int a, int b);
